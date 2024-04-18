@@ -1,4 +1,7 @@
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<img src="https://raw.githubusercontent.com/PrakasRavichandran/PrakashRavichandran/main/public/images/logos/python.png" width="144" align="right" hspace="0" />
+
+✨ &nbsp; Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PrakasRavichandran/Introduction-to-Python)
+======
 
 An opinionated list of awesome Python frameworks, libraries, software and resources.
 
